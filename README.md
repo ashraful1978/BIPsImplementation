@@ -1,6 +1,5 @@
 # BIPsImplementation GPU
-Implementation of two BIPs</br>
-**WORK IN PROCESS**
+Implementation of two BIPs</br> forked from [BIPsImplementation](https://github.com/BilawalAhmed0900/BIPsImplementation)
 
  - BIP0039
  - BIP0044
